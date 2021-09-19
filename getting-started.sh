@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+docker run -dp 80:80 docker/getting-started
